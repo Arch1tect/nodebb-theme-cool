@@ -1,0 +1,54 @@
+{
+  "_from": "nodebb-theme-cool@2.12.3",
+  "_id": "nodebb-theme-cool@2.12.3",
+  "_inBundle": false,
+  "_integrity": "sha512-O1xsV4FkSEL5GA7I2NPycQStJYQDXynt21GSsJ4pJkqP0k+E5MVS4QBeAJhpDu6d4k9sjbFp7PJt6SUNBzPHMA==",
+  "_location": "/nodebb-theme-cool",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "nodebb-theme-cool@2.12.3",
+    "name": "nodebb-theme-cool",
+    "escapedName": "nodebb-theme-cool",
+    "rawSpec": "2.12.3",
+    "saveSpec": null,
+    "fetchSpec": "2.12.3"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodebb-theme-material/-/nodebb-theme-material-2.12.3.tgz",
+  "_shasum": "3674f7f278a9f98b9b9cd9f3feda1020e4af7f24",
+  "_spec": "nodebb-theme-material@2.12.3",
+  "_where": "/Users/swotong/project/chatbox/nodebb",
+  "author": {
+    "name": "pichalite",
+    "email": "pichalite.com@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/pichalite/nodebb-theme-material/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Material Design theme for NodeBB",
+  "homepage": "https://github.com/pichalite/nodebb-theme-material#readme",
+  "keywords": [
+    "nodebb",
+    "material",
+    "material design",
+    "theme",
+    "themes"
+  ],
+  "main": "theme.less",
+  "name": "nodebb-theme-cool",
+  "nbbpm": {
+    "compatibility": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pichalite/nodebb-theme-material.git"
+  },
+  "version": "2.12.3"
+}
